@@ -1,8 +1,12 @@
 This project basically is just a repository for commonly needed copy/paste code, such as delegate methods and idioms such as block declarations.  
 
-In general I am wary of copy/paste programming, so anything that should be put into a category or reusable library will go elsewhere.  (A new github project that does this will be coming.)
+In general I am wary of copy/paste programming, so anything is really reusable should be put into a category or reusable library will go elsewhere.  (A new github project that does this will be coming.)
 
 Guidelines for snippets:
+
+Snippets are NOT intended to be code that is reusable, but rather templates of common idioms.
+
+Each file is usable by copying all of its contents.  This enables the fastest use of it:  switch to text editor, Select All, back to XCode to paste.
 
 How to use it:
 
